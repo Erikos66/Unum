@@ -41,7 +41,6 @@ Log/*
 Log/
 Logs*/*
 build/
-Library/
 UserSettings/
 
 # MSTest test Results
