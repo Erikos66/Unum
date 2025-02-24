@@ -1,0 +1,929 @@
+fileFormatVersion: 2
+guid: 0a32efc7eaca36848b598e1d2da58c3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3044654400991329862
+    second: UnoTextureAtlas_0
+  - first:
+      213: -3621460237907892786
+    second: UnoTextureAtlas_1
+  - first:
+      213: -1557427634611322444
+    second: UnoTextureAtlas_2
+  - first:
+      213: 434043706909133428
+    second: UnoTextureAtlas_3
+  - first:
+      213: 4578995196042205921
+    second: UnoTextureAtlas_4
+  - first:
+      213: -2654211007156624011
+    second: UnoTextureAtlas_5
+  - first:
+      213: 7369042419110406364
+    second: UnoTextureAtlas_6
+  - first:
+      213: -8113415835366484147
+    second: UnoTextureAtlas_7
+  - first:
+      213: -4295180417434720627
+    second: UnoTextureAtlas_8
+  - first:
+      213: 7851609001024104146
+    second: UnoTextureAtlas_9
+  - first:
+      213: 160965285291909337
+    second: UnoTextureAtlas_10
+  - first:
+      213: 6136606334529143270
+    second: UnoTextureAtlas_11
+  - first:
+      213: 156533833822431622
+    second: UnoTextureAtlas_12
+  - first:
+      213: -5055944071250057069
+    second: UnoTextureAtlas_13
+  - first:
+      213: -4851975608960175506
+    second: UnoTextureAtlas_14
+  - first:
+      213: 5390798597658136219
+    second: UnoTextureAtlas_15
+  - first:
+      213: 417282998663341072
+    second: UnoTextureAtlas_16
+  - first:
+      213: -1704162469169959648
+    second: UnoTextureAtlas_17
+  - first:
+      213: -2873188593097776491
+    second: UnoTextureAtlas_18
+  - first:
+      213: -6056866872593512478
+    second: UnoTextureAtlas_19
+  - first:
+      213: -7279451698390317829
+    second: UnoTextureAtlas_20
+  - first:
+      213: 2441948755095315764
+    second: UnoTextureAtlas_21
+  - first:
+      213: -1185372714638435051
+    second: UnoTextureAtlas_22
+  - first:
+      213: 105036663350865946
+    second: UnoTextureAtlas_23
+  - first:
+      213: 4183208931370552919
+    second: UnoTextureAtlas_24
+  - first:
+      213: -8692632498507268273
+    second: UnoTextureAtlas_25
+  - first:
+      213: 8617113777627795950
+    second: UnoTextureAtlas_26
+  - first:
+      213: -880481734343150164
+    second: UnoTextureAtlas_27
+  - first:
+      213: -105314367929602912
+    second: UnoTextureAtlas_28
+  - first:
+      213: 3803096825467231559
+    second: UnoTextureAtlas_29
+  - first:
+      213: -7464268579628756609
+    second: UnoTextureAtlas_30
+  - first:
+      213: -2292558877046085073
+    second: UnoTextureAtlas_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CardColorField2
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1233
+        width: 283
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec56c47d91dfdbdc0800000000000000
+      internalID: -3621460237907892786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardColorField1
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1237
+        width: 283
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b18d9361d7e26ae0800000000000000
+      internalID: -1557427634611322444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBackground
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1215
+        width: 321
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a0057a378060600800000000000000
+      internalID: 434043706909133428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 868
+        width: 264
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ead058cedbdb8f30800000000000000
+      internalID: 4578995196042205921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildWheel
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 868
+        width: 263
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5756f7fc6295a2bd0800000000000000
+      internalID: -2654211007156624011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1017
+        width: 171
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd86cdd8909144660800000000000000
+      internalID: 7369042419110406364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 982
+        width: 123
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4793f1d84b576f80800000000000000
+      internalID: -8113415835366484147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 906
+        width: 151
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86e69cca247464c0800000000000000
+      internalID: -4295180417434720627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 923
+        width: 158
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d62d4d69c486fc60800000000000000
+      internalID: 7851609001024104146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildRed
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 717
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d06efaf21ddb3200800000000000000
+      internalID: 160965285291909337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildBlue
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 717
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e18508b2fa992550800000000000000
+      internalID: 6136606334529143270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 817
+        width: 123
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689e05841be1c2200800000000000000
+      internalID: 156533833822431622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 829
+        width: 172
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398e5ec97ada5d9b0800000000000000
+      internalID: -5055944071250057069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 669
+        width: 219
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62b119f3e15aacb0800000000000000
+      internalID: -4851975608960175506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 669
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e461d43c6ffca40800000000000000
+      internalID: 5390798597658136219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 199
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014632a2dac7ac500800000000000000
+      internalID: 417282998663341072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildGreen
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 545
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d629963499958e0800000000000000
+      internalID: -1704162469169959648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildYellow
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 545
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592e3b782326028d0800000000000000
+      internalID: -2873188593097776491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 625
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e78b378bafa1fba0800000000000000
+      internalID: -6056866872593512478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 625
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4c4dd9f313afa90800000000000000
+      internalID: -7279451698390317829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 453
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435e92b647b83e120800000000000000
+      internalID: 2441948755095315764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 453
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d1981ebc5bc8fe0800000000000000
+      internalID: -1185372714638435051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 246
+        width: 224
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10bb6fe94a257100800000000000000
+      internalID: 105036663350865946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 228
+        width: 191
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e45970c5ebd0a30800000000000000
+      internalID: 4183208931370552919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 232
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f35735cc09d5780800000000000000
+      internalID: -8692632498507268273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 241
+        width: 225
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee111a84353269770800000000000000
+      internalID: 8617113777627795950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 235
+        width: 180
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5b1411786e7c3f0800000000000000
+      internalID: -880481734343150164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acafcde329d98ef0800000000000000
+      internalID: -105314367929602912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 6
+        width: 211
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dd360c96057c430800000000000000
+      internalID: 3803096825467231559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 46
+        width: 216
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f715e133647996890800000000000000
+      internalID: -7464268579628756609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoTextureAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 218
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aeffa09d13f20e0800000000000000
+      internalID: -2292558877046085073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: de4f221d4b152d148b6d65c4ceaa0eb5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CardBackground: 434043706909133428
+      CardColorField1: -1557427634611322444
+      CardColorField2: -3621460237907892786
+      WildBlue: 6136606334529143270
+      WildGreen: -1704162469169959648
+      WildRed: 160965285291909337
+      WildWheel: -2654211007156624011
+      WildYellow: -2873188593097776491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
