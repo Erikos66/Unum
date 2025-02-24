@@ -27,7 +27,7 @@ public class CardDisplay : MonoBehaviour {
     [SerializeField] private Image C_BRC; // Bottom right corner of the wild image (YELLOW)
     [Header("Top Left Corner")]
     [SerializeField] private TMP_Text textTopLeft; // Text for the top left corner of the card
-    [SerializeField] private Image imageTopLeft; // Image for the top left corner of the card
+    [SerializeField] private GameObject imageTopLeft; // Image for the top left corner of the card
     [SerializeField] private GameObject wildImageTopLeft; // Wild image for the top left corner of the card
     [SerializeField] private Image TL_TLC; // Top left corner of the wild image (RED)
     [SerializeField] private Image TL_TRC; // Top right corner of the wild image (GREEN)
@@ -41,6 +41,15 @@ public class CardDisplay : MonoBehaviour {
     [SerializeField] private Image BR_TRC; // Top right corner of the wild image (GREEN)
     [SerializeField] private Image BR_BLC; // Bottom left corner of the wild image (BLUE)
     [SerializeField] private Image BR_BRC; // Bottom right corner of the wild image (YELLOW)
+
+    Card mycard;
+
+    /*
+    public void SetCard(Card card) {
+        mycard = card;
+        SetColor(mycard.cardColor);
+        SetValue(mycard.cardValue);
+    }
 
     void SetColor(CardColor cardColor) {
         switch (cardColor) {
@@ -61,7 +70,14 @@ public class CardDisplay : MonoBehaviour {
                 break;
         }
     }
-    void SetNumber(CardValue cardValue) {
+    */
+    void SetValue(CardValue cardValue) {
+        wildImageCenter.SetActive(false);
+        wildImageTopLeft.SetActive(false);
+        wildImageBottomRight.SetActive(false);
+        textCenter.text = "";
+        textTopLeft.text = "";
+        textBottomRight.text = "";
         switch (cardValue) {
             case CardValue.ZERO:
                 textCenter.text = "0";
@@ -94,23 +110,16 @@ public class CardDisplay : MonoBehaviour {
                 textCenter.text = "9";
                 break;
             case CardValue.REVERSE:
-                imageCenter.SetActive(true);
                 imageCenter.GetComponent<Image>().sprite = reverse;
                 break;
             case CardValue.SKIP:
-                imageCenter.SetActive(true);
                 imageCenter.GetComponent<Image>().sprite = skip;
                 break;
             case CardValue.DRAW_TWO:
-                imageCenter.SetActive(true);
                 imageCenter.GetComponent<Image>().sprite = drawTwo;
                 break;
             case CardValue.DRAW_FOUR:
-                wildImageCenter.SetActive(true);
-                C_TLC.color = red;
-                C_TRC.color = green;
-                C_BLC.color = blue;
-                C_BRC.color = yellow;
+                imageCenter.GetComponent<Image>().sprite = drawFour;
                 break;
         }
     }

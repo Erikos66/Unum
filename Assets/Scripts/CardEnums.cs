@@ -1,4 +1,4 @@
-public enum CardColor {
+public enum DepriciatedCardColor {
     RED,
     GREEN,
     BLUE,
@@ -21,11 +21,11 @@ public enum CardValue {
     DRAW_TWO,
     DRAW_FOUR
 }
-public class Card {
+public class DepriceiatedCard {
     public CardColor cardColor;
     public CardValue cardValue;
 
-    public Card(CardColor color, CardValue value) {
+    public DepriceiatedCard(CardColor color, CardValue value) {
         cardColor = color;
         cardValue = value;
     }
