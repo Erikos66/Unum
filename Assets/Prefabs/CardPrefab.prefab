@@ -1518,6 +1518,8 @@ MonoBehaviour:
   skip: {fileID: 417282998663341072, guid: 0a32efc7eaca36848b598e1d2da58c3d, type: 3}
   drawTwo: {fileID: 7851609001024104146, guid: 0a32efc7eaca36848b598e1d2da58c3d, type: 3}
   drawFour: {fileID: 5390798597658136219, guid: 0a32efc7eaca36848b598e1d2da58c3d, type: 3}
+  cardColor: {fileID: 4961753550145699202}
+  cardBack: {fileID: 0}
   textCenter: {fileID: 526712226982234548}
   imageCenter: {fileID: 8981723063018942498}
   wildImageCenter: {fileID: 4266171556803112430}
